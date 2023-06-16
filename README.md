@@ -1,2 +1,3 @@
-# Projeto de Versionamento Curso Git - GitHub.
- Esse projeto consta em versionar um livro de receitas! 
+# Livro de Receitas Veganas🌿
+
+ Esse projeto consta em versionar um livro de receitas veganas utilizando o GitHub! 
